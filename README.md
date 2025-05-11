@@ -50,7 +50,7 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
    _Example:_ A pixel-perfect layout with real hotel names, images, and interactive buttons styled using a UI library.
 
-### 🔍 Key Differences
+### Key Differences
 
 | Feature              | Low-Fidelity                   | High-Fidelity                      |
 |----------------------|--------------------------------|------------------------------------|
@@ -59,7 +59,47 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 | **Tools Used**        | Paper, Balsamiq                | Figma, Adobe XD, Sketch            |
 | **Purpose**           | Concept testing, early feedback| User testing, final design preview |
 ---
+The provided sample is a high-fidelity wireframe. High-fidelity wireframes are detailed representations of the final product, closely resembling the actual design in terms of layout, content, and functionality.
+
+Characteristics:
+- Includes exact positioning of elements (buttons, images, etc.)
+
+- Shows styling details such as fonts, colors, and images
+
+- May include interactive elements (clickable areas, hover states, etc.)
 
 ## Popular wireframing tools
+Wireframing tools help designers visualize ideas, create layouts, and communicate designs effectively. Below are some of the most widely used tools:
+
+### 1. **Figma** (Recommended)
+Figma is a cloud-based interface design tool that allows real-time collaboration. It’s excellent for both low- and high-fidelity wireframes.
+
+**Key Features:**
+- Real-time collaboration with team members
+- Easy-to-use vector editing tools
+- Pre-built components and design libraries
+- Cross-platform (works in-browser)
+- Free tier available with generous features
+
+**Why Use Figma for Wireframing:**
+- No need to install software – it runs in your browser
+- Enables quick sharing and feedback with stakeholders
+- Ideal for teams working remotely or across different locations
+
+### 2. **Balsamiq**
+Focused on low-fidelity wireframes with a hand-drawn style to encourage feedback on layout and functionality.
+
+### 3. **Adobe XD**
+A powerful tool for both wireframing and prototyping, tightly integrated with the Adobe ecosystem.
+
+### 4. **Sketch**
+Popular on macOS for high-fidelity design work and wireframes; known for its clean interface and plugin support.
+
+### 5. **Lucidchart**
+Great for creating diagrams and flowcharts as well as basic wireframes, especially for UX flows.
+
+---
+
+
 
 ## Benefits of wireframing from a software development perspective
