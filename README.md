@@ -100,8 +100,6 @@ Great for creating diagrams and flowcharts as well as basic wireframes, especial
 
 ---
 
-
-
 ## Benefits of wireframing from a software development perspective.
 Wireframing plays a critical role in the software development process by providing a clear visual representation of a product’s layout, user flow, and core functionalities before development begins. Below are key benefits:
 
@@ -119,5 +117,36 @@ Teams can use wireframes to conduct usability testing or gather stakeholder feed
 
 5. Improves Development Planning
 Wireframes serve as blueprints for developers, helping them estimate tasks and organize their work logically. Developers can plan database structures, API endpoints, and interactions based on wireframed flows like Search + Booking, View Booking, and Notification delivery.
+---
+
+## Real-World Scenario: Identifying Usability Issues Through Wireframing
+### Scenario: Booking System - Search and Booking Flow
+
+During the design phase of a Booking system, wireframes were created to illustrate the user journey from searching for properties/hotels to completing a booking. Initially, the wireframe showed a straightforward process where users would input dates, browse hotel/properties options, and confirm their booking.
+
+#### Identifying Usability Issues
+While reviewing the wireframes with stakeholders, the team noticed a few potential usability concerns:
+
+- Overwhelming Information: The wireframe displayed too much information on the screen at once, with numerous property options, dates, and filters cluttering the page. This could overwhelm users and lead to decision fatigue.
+
+- Confusing Navigation: The search results did not clearly differentiate between available and unavailable hotels, which could confuse users when trying to book a room.
+
+- Long Booking Process: The initial wireframe had multiple steps between property selection and booking confirmation, leading to a long and tedious process.
+
+#### Resolving the Issues
+Through discussion and feedback from stakeholders, the following changes were made to the wireframe:
+
+- Simplified Layout: The number of elements on the screen was reduced by organizing the information into clear sections—such as filters on the left and property listings on the right—making it easier to navigate.
+
+- Clear Property Availability Indicators: Each property listing now included a visual status (available or unavailable) with a color-coded system, helping users quickly identify their options.
+
+- Streamlined Process: The booking flow was condensed into fewer steps, allowing users to confirm their booking with minimal clicks. A summary page was introduced before final confirmation to give users a chance to review their selections.
+
+#### Impact on the Final Product
+By addressing these usability issues early in the wireframing stage, the design was improved significantly, resulting in a much smoother user experience. The final product was easier to navigate, more intuitive, and led to higher conversion rates. The simpler booking process reduced user frustration, while the availability indicators prevented mistakes and confusion.
+
+### Conclusion: The Role of Wireframing in Ensuring a User-Friendly Design
+Wireframing played a vital role in uncovering usability problems before the development phase. By creating a visual guide for user flows and interaction, the design team was able to spot issues early and resolve them before they could impact development. This not only saved time and resources but also ensured that the final product met user expectations, demonstrating how wireframes serve as an essential tool in creating user-friendly software.
+
 
 
