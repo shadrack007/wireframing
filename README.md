@@ -102,4 +102,22 @@ Great for creating diagrams and flowcharts as well as basic wireframes, especial
 
 
 
-## Benefits of wireframing from a software development perspective
+## Benefits of wireframing from a software development perspective.
+Wireframing plays a critical role in the software development process by providing a clear visual representation of a product’s layout, user flow, and core functionalities before development begins. Below are key benefits:
+
+1. Clarifies Requirements
+Wireframes help translate abstract ideas into tangible visuals. For instance, in a hotel booking system, wireframes can show how a user searches for hotels, views listings, and proceeds to checkout—clearly aligning business goals with user expectations.
+
+2. Enhances Team Communication
+Wireframes act as a shared visual reference for developers, designers, product managers, and stakeholders. For example, the wireframe of the Checkout feature ensures everyone understands that users should be able to select dates, make payments, and receive confirmation emails—reducing miscommunication and rework.
+
+3. Guides UI/UX Design
+Wireframes provide a foundation for interface design by establishing structure and layout early on. This helps designers focus on usability while ensuring the layout supports the intended functionality, such as showing booking confirmation or hotel recommendations.
+
+4. Enables Early Feedback
+Teams can use wireframes to conduct usability testing or gather stakeholder feedback before writing code. This prevents costly changes later in the development lifecycle. For instance, if users struggle with the “Make Booking” process, wireframes allow designers to test alternatives quickly.
+
+5. Improves Development Planning
+Wireframes serve as blueprints for developers, helping them estimate tasks and organize their work logically. Developers can plan database structures, API endpoints, and interactions based on wireframed flows like Search + Booking, View Booking, and Notification delivery.
+
+
